@@ -1,4 +1,4 @@
-hodor
+Hodor
 =====
 
-Replaces everything you type with "hodor".
+This insanely useful program replaces everything you type with "hodor".
